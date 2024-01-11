@@ -10,7 +10,7 @@ pwd'''
           }
         }
 
-        stage('') {
+        stage('error') {
           steps {
             echo 'hello'
           }
